@@ -1,0 +1,9 @@
+data:
+  source:
+    mysql:
+      url: jdbc:mysql://whoisloda.cn/test?useUnicode=true&characgerEncoding=utf8
+      username: root
+      password: 123456
+  registry:
+    ip: localhost
+    port: 8761
