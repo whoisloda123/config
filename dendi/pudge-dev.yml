@@ -1,7 +1,7 @@
 data:
   source:
     mysql:
-      url: jdbc:mysql://whoisloda.cn/test11?useUnicode=true&characgerEncoding=utf8
+      url: jdbc:mysql://whoisloda.cn/test22?useUnicode=true&characgerEncoding=utf8
       username: root
       password: 123456
   registry:
